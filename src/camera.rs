@@ -1,0 +1,6 @@
+struct Camera {}
+
+
+
+struct UniformCamera {
+}
